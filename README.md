@@ -11,4 +11,4 @@
 
 ## Контакты
 afonskiy.vlad@mail.ru 
-legocitiy@gmail.com
+k.dmitriev1@yandex.ru
