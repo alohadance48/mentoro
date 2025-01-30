@@ -10,5 +10,5 @@
 Вставьте токен в переменную TOKEN, после чего запустите программу.
 
 ## Контакты
-afonskiy.vlad@mail.ru 
+afonskiy.vlad@mail.ru , 
 k.dmitriev1@yandex.ru
